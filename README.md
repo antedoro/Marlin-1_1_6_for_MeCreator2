@@ -1,4 +1,4 @@
-# Marlin-1_1_6_for_MeCreator2
+# Marlin-1_1_6_for_MeCreator2 from Marlin site (Thanks to Enzo De Simone)
 
 Installing Marlin (Arduino)
 
